@@ -1,0 +1,29 @@
+name: cifar
+channels:
+- defaults
+- pytorch
+dependencies:
+- anaconda
+- numpy
+- scipy
+- cuda90
+- cudnn
+- torchvision
+- sortedcontainers
+- decorator
+- ipykernel
+- ipython
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- matplotlib
+- pandas
+- path.py
+- pip
+- python>=3.6.0
+- pip:
+  - opencv-python
+  - umap-learn
+  - git+https://github.com/fastai/fastai.git
+  - git+https://github.com/Cadene/pretrained-models.pytorch.git

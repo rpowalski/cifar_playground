@@ -1,0 +1,397 @@
+[I 13:29:24.115 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.0
+[I 13:29:24.118 NotebookApp] Serving notebooks from local directory: /home/rafal/cifar
+[I 13:29:24.118 NotebookApp] 0 active kernels
+[I 13:29:24.118 NotebookApp] The Jupyter Notebook is running at:
+[I 13:29:24.118 NotebookApp] http://localhost:8888/?token=c9a9a9b1695e9c2b1239571560becd7913fe0c08a541dedc
+[I 13:29:24.118 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:29:24.118 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=c9a9a9b1695e9c2b1239571560becd7913fe0c08a541dedc&token=c9a9a9b1695e9c2b1239571560becd7913fe0c08a541dedc
+[C 13:30:22.369 NotebookApp] received signal 15, stopping
+[I 13:30:22.373 NotebookApp] Shutting down 0 kernels
+[I 13:30:51.709 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.0
+[I 13:30:51.711 NotebookApp] Serving notebooks from local directory: /home/rafal/cifar
+[I 13:30:51.711 NotebookApp] 0 active kernels
+[I 13:30:51.711 NotebookApp] The Jupyter Notebook is running at:
+[I 13:30:51.711 NotebookApp] http://localhost:8888/?token=41c85adb64d1de98cdc5d923715a1c97f497c1346fbc94f1
+[I 13:30:51.711 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:30:51.712 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=41c85adb64d1de98cdc5d923715a1c97f497c1346fbc94f1&token=41c85adb64d1de98cdc5d923715a1c97f497c1346fbc94f1
+[C 13:31:36.147 NotebookApp] received signal 15, stopping
+[I 13:31:36.148 NotebookApp] Shutting down 0 kernels
+[I 15:09:05.424 NotebookApp] The port 8888 is already in use, trying another port.
+[I 15:09:05.444 NotebookApp] JupyterLab beta preview extension loaded from /home/rafal/anaconda3/envs/cifar/lib/python3.6/site-packages/jupyterlab
+[I 15:09:05.444 NotebookApp] JupyterLab application directory is /home/rafal/anaconda3/envs/cifar/share/jupyter/lab
+[I 15:09:05.448 NotebookApp] Serving notebooks from local directory: /home/rafal/cifar
+[I 15:09:05.448 NotebookApp] 0 active kernels
+[I 15:09:05.448 NotebookApp] The Jupyter Notebook is running at:
+[I 15:09:05.448 NotebookApp] http://localhost:8889/?token=93cba11814251b21a558ab0a2cb05947461bc1e25df19db3
+[I 15:09:05.448 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:09:05.448 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=93cba11814251b21a558ab0a2cb05947461bc1e25df19db3&token=93cba11814251b21a558ab0a2cb05947461bc1e25df19db3
+[I 15:09:05.661 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 15:09:12.407 NotebookApp] 404 GET /nbextensions/collapsible_headings/main.js?v=20180919150905 (127.0.0.1) 4.69ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 15:09:12.412 NotebookApp] 404 GET /nbextensions/code_prettify/code_prettify.js?v=20180919150905 (127.0.0.1) 0.82ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[I 15:09:13.173 NotebookApp] Kernel started: 50626238-3547-4e07-bb0a-5743b91e472a
+[W 15:09:13.384 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180919150905 (127.0.0.1) 1.04ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[I 15:09:13.494 NotebookApp] Adapting to protocol v5.1 for kernel 50626238-3547-4e07-bb0a-5743b91e472a
+[I 15:11:13.201 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:13:13.169 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:15:13.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:17:13.168 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:19:13.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:21:13.209 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:23:13.184 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:25:13.180 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:27:13.171 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:29:13.170 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:33:13.232 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:35:13.193 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:37:13.175 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:41:13.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:43:13.216 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:45:13.214 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:47:13.175 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:49:13.174 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:51:13.172 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:53:13.223 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:55:13.212 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:57:13.207 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:59:13.223 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:01:13.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:11:13.174 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:13:13.224 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:13:13.224 NotebookApp] '_xsrf' argument missing from POST
+[W 16:13:13.225 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 3.36ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:15:13.353 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:15:13.353 NotebookApp] '_xsrf' argument missing from POST
+[W 16:15:13.354 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 6.18ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:17:13.219 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:17:13.219 NotebookApp] '_xsrf' argument missing from POST
+[W 16:17:13.220 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 2.30ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:19:13.213 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:19:13.214 NotebookApp] '_xsrf' argument missing from POST
+[W 16:19:13.214 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 2.60ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:21:13.227 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:21:13.227 NotebookApp] '_xsrf' argument missing from POST
+[W 16:21:13.227 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.89ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:23:13.218 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:23:13.219 NotebookApp] '_xsrf' argument missing from POST
+[W 16:23:13.219 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 5.13ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:25:13.185 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:25:13.185 NotebookApp] '_xsrf' argument missing from POST
+[W 16:25:13.185 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.24ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:27:13.235 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:27:13.235 NotebookApp] '_xsrf' argument missing from POST
+[W 16:27:13.235 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 2.88ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:29:13.227 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:29:13.227 NotebookApp] '_xsrf' argument missing from POST
+[W 16:29:13.227 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 2.79ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:31:13.213 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:31:13.214 NotebookApp] '_xsrf' argument missing from POST
+[W 16:31:13.214 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 3.91ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:32:36.722 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:32:36.722 NotebookApp] '_xsrf' argument missing from POST
+[W 16:32:36.722 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.95ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:33:13.228 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:33:13.228 NotebookApp] '_xsrf' argument missing from POST
+[W 16:33:13.229 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 2.79ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:35:13.220 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:35:13.220 NotebookApp] '_xsrf' argument missing from POST
+[W 16:35:13.220 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.39ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:37:13.276 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:37:13.276 NotebookApp] '_xsrf' argument missing from POST
+[W 16:37:13.277 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 6.52ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:39:13.222 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:39:13.222 NotebookApp] '_xsrf' argument missing from POST
+[W 16:39:13.223 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 3.22ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:41:13.232 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:41:13.232 NotebookApp] '_xsrf' argument missing from POST
+[W 16:41:13.233 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 5.70ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:43:13.196 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:43:13.196 NotebookApp] '_xsrf' argument missing from POST
+[W 16:43:13.196 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.46ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:45:13.183 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:45:13.183 NotebookApp] '_xsrf' argument missing from POST
+[W 16:45:13.183 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.21ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:46:58.125 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:46:58.126 NotebookApp] '_xsrf' argument missing from POST
+[W 16:46:58.126 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.22ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:47:13.226 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:47:13.227 NotebookApp] '_xsrf' argument missing from POST
+[W 16:47:13.227 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 3.77ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:49:13.300 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:49:13.300 NotebookApp] '_xsrf' argument missing from POST
+[W 16:49:13.301 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.25ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:51:13.260 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:51:13.260 NotebookApp] '_xsrf' argument missing from POST
+[W 16:51:13.261 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 5.31ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:53:13.188 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:53:13.188 NotebookApp] '_xsrf' argument missing from POST
+[W 16:53:13.188 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.26ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:55:13.185 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:55:13.185 NotebookApp] '_xsrf' argument missing from POST
+[W 16:55:13.185 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.29ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:57:13.189 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:57:13.189 NotebookApp] '_xsrf' argument missing from POST
+[W 16:57:13.189 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.29ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 16:59:13.191 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:59:13.191 NotebookApp] '_xsrf' argument missing from POST
+[W 16:59:13.191 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.28ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:01:13.193 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:01:13.193 NotebookApp] '_xsrf' argument missing from POST
+[W 17:01:13.193 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.21ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:03:13.217 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:03:13.218 NotebookApp] '_xsrf' argument missing from POST
+[W 17:03:13.218 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.28ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:05:13.195 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:05:13.196 NotebookApp] '_xsrf' argument missing from POST
+[W 17:05:13.196 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.23ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:07:13.190 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:07:13.190 NotebookApp] '_xsrf' argument missing from POST
+[W 17:07:13.191 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.32ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:09:13.189 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:09:13.189 NotebookApp] '_xsrf' argument missing from POST
+[W 17:09:13.190 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.25ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[I 17:10:19.216 NotebookApp] Starting buffering for 50626238-3547-4e07-bb0a-5743b91e472a:c5f54d985b9744238f9287d304259e31
+[W 17:10:19.231 NotebookApp] 403 POST /api/kernels/50626238-3547-4e07-bb0a-5743b91e472a/restart (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:19.232 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:19.232 NotebookApp] 403 POST /api/kernels/50626238-3547-4e07-bb0a-5743b91e472a/restart (127.0.0.1) 0.65ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:19.239 NotebookApp] 403 DELETE /api/sessions/118e05aa-e619-45df-8fc6-1aef312ced87 (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:19.239 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:19.239 NotebookApp] 403 DELETE /api/sessions/118e05aa-e619-45df-8fc6-1aef312ced87 (127.0.0.1) 0.61ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:19.243 NotebookApp] 403 POST /api/sessions (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:19.243 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:19.243 NotebookApp] 403 POST /api/sessions (127.0.0.1) 0.59ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:26.191 NotebookApp] 403 POST /api/kernels/50626238-3547-4e07-bb0a-5743b91e472a/restart (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:26.191 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:26.192 NotebookApp] 403 POST /api/kernels/50626238-3547-4e07-bb0a-5743b91e472a/restart (127.0.0.1) 2.58ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:26.323 NotebookApp] 403 DELETE /api/sessions/118e05aa-e619-45df-8fc6-1aef312ced87 (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:26.323 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:26.324 NotebookApp] 403 DELETE /api/sessions/118e05aa-e619-45df-8fc6-1aef312ced87 (127.0.0.1) 2.49ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:26.342 NotebookApp] 403 POST /api/sessions (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:26.342 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:26.343 NotebookApp] 403 POST /api/sessions (127.0.0.1) 2.62ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:35.187 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:35.187 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:35.187 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.46ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:40.468 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:40.468 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:40.469 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 2.41ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:10:56.949 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:10:56.949 NotebookApp] '_xsrf' argument missing from POST
+[W 17:10:56.949 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.24ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:03.671 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:03.671 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:03.671 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.25ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:03.675 NotebookApp] 403 POST /api/contents (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:03.675 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:03.675 NotebookApp] 403 POST /api/contents (127.0.0.1) 0.62ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:13.368 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:13.368 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:13.368 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.13ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:18.307 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:18.307 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:18.307 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.34ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:22.308 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:22.308 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:22.308 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (127.0.0.1) 1.26ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:26.669 NotebookApp] 403 POST /api/kernels/50626238-3547-4e07-bb0a-5743b91e472a/restart (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:26.669 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:26.669 NotebookApp] 403 POST /api/kernels/50626238-3547-4e07-bb0a-5743b91e472a/restart (127.0.0.1) 0.65ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:26.681 NotebookApp] 403 DELETE /api/sessions/118e05aa-e619-45df-8fc6-1aef312ced87 (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:26.681 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:26.681 NotebookApp] 403 DELETE /api/sessions/118e05aa-e619-45df-8fc6-1aef312ced87 (127.0.0.1) 0.59ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:26.685 NotebookApp] 403 POST /api/sessions (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:26.685 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:26.685 NotebookApp] 403 POST /api/sessions (127.0.0.1) 0.61ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 17:11:49.827 NotebookApp] 404 GET /nbextensions/collapsible_headings/main.js?v=20180919150905 (127.0.0.1) 1.07ms referer=None
+[W 17:11:49.829 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180919150905 (127.0.0.1) 0.94ms referer=None
+[W 17:11:49.833 NotebookApp] 404 GET /nbextensions/code_prettify/code_prettify.js?v=20180919150905 (127.0.0.1) 0.84ms referer=None
+[I 17:12:01.588 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:12:06.699 NotebookApp] Shutting down on /api/shutdown request.
+[I 17:12:06.699 NotebookApp] Shutting down 1 kernel
+[I 17:12:07.306 NotebookApp] Kernel shutdown: 50626238-3547-4e07-bb0a-5743b91e472a
+[I 17:13:29.092 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:13:29.116 NotebookApp] JupyterLab beta preview extension loaded from /home/rafal/anaconda3/envs/cifar/lib/python3.6/site-packages/jupyterlab
+[I 17:13:29.116 NotebookApp] JupyterLab application directory is /home/rafal/anaconda3/envs/cifar/share/jupyter/lab
+[I 17:13:29.120 NotebookApp] Serving notebooks from local directory: /home/rafal/cifar
+[I 17:13:29.120 NotebookApp] 0 active kernels
+[I 17:13:29.120 NotebookApp] The Jupyter Notebook is running at:
+[I 17:13:29.120 NotebookApp] http://localhost:8889/?token=99c6dcb0d23c1614c02a62bef09b95d2cf12ede135756434
+[I 17:13:29.120 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:13:29.121 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=99c6dcb0d23c1614c02a62bef09b95d2cf12ede135756434&token=99c6dcb0d23c1614c02a62bef09b95d2cf12ede135756434
+[I 17:13:47.809 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:13:47.810 NotebookApp] The port 8889 is already in use, trying another port.
+[I 17:13:47.827 NotebookApp] JupyterLab beta preview extension loaded from /home/rafal/anaconda3/envs/cifar/lib/python3.6/site-packages/jupyterlab
+[I 17:13:47.827 NotebookApp] JupyterLab application directory is /home/rafal/anaconda3/envs/cifar/share/jupyter/lab
+[I 17:13:47.830 NotebookApp] Serving notebooks from local directory: /home/rafal/cifar
+[I 17:13:47.830 NotebookApp] 0 active kernels
+[I 17:13:47.830 NotebookApp] The Jupyter Notebook is running at:
+[I 17:13:47.830 NotebookApp] http://localhost:8890/?token=1abb820913cd504fa89ba86004701e68c46affbc8565ffef
+[I 17:13:47.830 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:13:47.831 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=1abb820913cd504fa89ba86004701e68c46affbc8565ffef&token=1abb820913cd504fa89ba86004701e68c46affbc8565ffef
+[I 17:13:48.035 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 17:13:52.844 NotebookApp] 404 GET /nbextensions/collapsible_headings/main.js?v=20180919171347 (127.0.0.1) 4.59ms referer=http://localhost:8890/notebooks/Untitled.ipynb
+[W 17:13:52.845 NotebookApp] 404 GET /nbextensions/code_prettify/code_prettify.js?v=20180919171347 (127.0.0.1) 0.85ms referer=http://localhost:8890/notebooks/Untitled.ipynb
+[I 17:13:53.619 NotebookApp] Kernel started: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[W 17:13:53.855 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180919171347 (127.0.0.1) 1.04ms referer=http://localhost:8890/notebooks/Untitled.ipynb
+[I 17:13:53.946 NotebookApp] Adapting to protocol v5.1 for kernel e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 17:15:53.681 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:17:53.624 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:23:53.635 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:25:53.625 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:27:53.644 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:29:20.110 NotebookApp] Starting buffering for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 17:29:20.617 NotebookApp] Kernel restarted: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 17:29:20.919 NotebookApp] Adapting to protocol v5.1 for kernel e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 17:29:20.919 NotebookApp] Restoring connection for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 17:29:20.919 NotebookApp] Replaying 3 buffered messages
+[I 17:29:53.632 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:31:53.635 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:33:53.634 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:35:53.701 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:37:53.678 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:39:53.627 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:41:53.629 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:43:53.629 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:47:53.628 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:49:42.779 NotebookApp] Kernel interrupted: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 17:49:53.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:51:53.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:53:53.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:55:53.631 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:13:53.634 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:15:53.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:21:53.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:23:53.633 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:27:53.656 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:33:53.636 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:43:53.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:45:53.635 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:47:53.649 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:49:53.638 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:51:53.634 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:53:53.640 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:53:56.987 NotebookApp] Kernel interrupted: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 18:55:53.635 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:57:53.633 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:59:54.440 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:01:56.097 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:03:56.647 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:05:56.935 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:07:57.264 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:09:57.627 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:11:58.084 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:13:58.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:15:58.804 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:17:58.796 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:19:58.797 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:21:58.805 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:23:58.801 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:25:58.797 NotebookApp] Saving file at /Untitled.ipynb
+THCudaCheck FAIL file=/pytorch/torch/lib/THC/generic/THCStorage.cu line=58 error=2 : out of memory
+[I 19:27:33.394 NotebookApp] Starting buffering for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 19:27:34.303 NotebookApp] Kernel restarted: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 19:27:34.738 NotebookApp] Adapting to protocol v5.1 for kernel e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 19:27:34.739 NotebookApp] Restoring connection for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 19:27:34.739 NotebookApp] Replaying 5 buffered messages
+[I 19:27:58.796 NotebookApp] Saving file at /Untitled.ipynb
+THCudaCheck FAIL file=/pytorch/torch/lib/THC/generic/THCStorage.cu line=58 error=2 : out of memory
+[I 19:28:16.184 NotebookApp] Starting buffering for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 19:28:16.690 NotebookApp] Kernel restarted: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 19:28:17.006 NotebookApp] Adapting to protocol v5.1 for kernel e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 19:28:17.006 NotebookApp] Restoring connection for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 19:28:17.006 NotebookApp] Replaying 3 buffered messages
+[I 19:29:58.797 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:31:58.839 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:33:58.795 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:35:58.795 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:37:58.795 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:39:58.796 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:41:58.798 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:43:58.797 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:45:58.796 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:47:58.797 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:49:58.796 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:51:58.796 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:53:58.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:55:58.801 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:57:58.798 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:59:58.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:01:58.798 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:03:58.798 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:05:58.798 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:07:58.798 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:09:58.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:11:58.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:13:58.801 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:15:58.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:17:58.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:19:58.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:21:58.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:23:58.799 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:25:58.801 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:27:58.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:29:58.805 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:31:58.803 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:33:58.804 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:35:58.803 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:37:58.812 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:39:58.801 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:41:58.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:43:58.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:45:58.801 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:47:58.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:49:58.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:51:58.803 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:53:58.805 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:55:58.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:57:58.888 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:59:58.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:01:58.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:03:58.890 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:05:58.888 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:07:59.619 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:10:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:12:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:14:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:16:00.151 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:18:00.154 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:20:00.151 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:22:00.158 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:24:00.153 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:26:00.153 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:28:00.153 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:30:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:32:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:34:00.155 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:36:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:38:00.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:40:00.154 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:42:00.153 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:44:00.156 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:46:00.155 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:48:00.166 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:05:32.848 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:06:27.567 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:06:34.113 NotebookApp] Starting buffering for e00b77c3-a8dd-4b64-ba4b-cf0ce79da926:8f541ef292ca499f8b5955b927dd480c
+[I 22:06:34.617 NotebookApp] Kernel shutdown: e00b77c3-a8dd-4b64-ba4b-cf0ce79da926
+[I 22:06:54.770 NotebookApp] Shutting down on /api/shutdown request.
+[I 22:06:54.771 NotebookApp] Shutting down 0 kernels
